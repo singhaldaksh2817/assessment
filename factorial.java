@@ -13,6 +13,6 @@ class Main {
             fact = fact * i;
         }
 
-        System.out.println("Factorial = " + fact);
+        System.out.println("Factorial of the number is= " + fact);
     }
 }
